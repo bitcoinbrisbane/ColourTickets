@@ -7,12 +7,12 @@ A Colour Coin Ticket POC
 1. Add 80 ACL in Azure Firewall
 2. sudo apt-get install nodejs
 3. sudo apt install nodejs-legacy
-2. sudo apt-get install npm
-3. sudo apt-get update
-4. sudo npm i -g colu
-6. sudo nano /usr/local/bin/colu  #Change port and add API Key if required
-7. sudo colu 
-7. sudo apt-get install pm2
+4. sudo apt-get install npm
+5. sudo apt-get update
+6. sudo npm i -g colu
+7. sudo nano /usr/local/bin/colu  #Change port and add API Key if required
+8. sudo colu 
+9. sudo npm install pm2 -g
 
 ### Useful links
 http://documentation.colu.co
