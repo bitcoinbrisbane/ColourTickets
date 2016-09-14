@@ -13,6 +13,7 @@ A Colour Coin Ticket POC
 7. sudo nano /usr/local/bin/colu  #Change port and add API Key if required
 8. sudo colu 
 9. sudo npm install pm2 -g
+10. sudo pm2 start colu
 
 ### Useful links
 http://documentation.colu.co
