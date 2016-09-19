@@ -11,5 +11,7 @@ namespace WebApplication.Models
     {
         [Display(Name="Number of tickets")]
         public Int32 NumberOfTickets { get; set; }
+
+        public Decimal Price { get; set; }
     }
 }
