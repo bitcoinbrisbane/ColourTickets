@@ -3,7 +3,7 @@ A Colour Coin Ticket POC
 
 ## Create an Ubuntu VM 16.04 LTS
 
-1. Add 80 ACL in Azure Firewall
+1. Add 80 ACL in Azure Firewall or sudo ufw allow 80
 2. sudo apt-get install nodejs
 3. sudo apt install nodejs-legacy
 4. sudo apt-get install npm
